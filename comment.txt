@@ -1,0 +1,5 @@
+# các keymap của công cụ Intellij
++  chạy ứng dụng : SHIFP + F10
++lệnh in ra màn hình console : sout
++copy and paste văn bản : CTRL + D ( nếu bôi cả đoạn -> paste sang bên cạnh )
+muốn copy and paste xuống dòng : để trỏ chuột ở cuối dòng -> CTRL + D -> nó sẽ copy cả dòng và paste -> xuống dòng
